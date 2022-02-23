@@ -6,8 +6,7 @@ class testRepoCount(unittest.TestCase):
 
     def testRepoCount(self):
         output = repoCount('richkempinski')
-        if type(output) == int or type(output) is None:
-            print('Exceeded limit')
+        if type(output) == int or output is None:
             return "Exceeded limit"
 
         self.assertEqual(output, output.update({'hellogitworld': 30}))
