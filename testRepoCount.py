@@ -5,16 +5,12 @@ from repositorycommitcount import repoCount
 class testRepoCount(unittest.TestCase):
 
     def testRepoCount(self):
-        output = repoCount('richkempinski')
-        if type(output) == int or output is None:
-            return "Exceeded limit"
-
-        self.assertEqual(output, output.update({'hellogitworld': 30}))
-
-        self.assertEqual(output, output.update({'helloworld': 6}))
+        self.assertIsInstance(repoCount('richkempinski'), dict)
+        self.assertIsInstance(repoCount('bshinn01'), dict)
 
     def testIncorrectOutputs(self):
         self.assertIsInstance(repoCount('###'), int)
+        self.assertIsInstance(repoCount(''), int)
 
 
 if __name__ == '__main__':
