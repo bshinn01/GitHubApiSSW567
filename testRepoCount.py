@@ -10,9 +10,9 @@ class testRepoCount(unittest.TestCase):
             print('Exceeded limit')
             return "Exceeded limit"
 
-        self.assertEqual(output, output |{'hellogitworld': 30})
+        self.assertEqual(output, output | output.update({'hellogitworld': 30}))
 
-        self.assertEqual(output, output | {'helloworld': 6})
+        self.assertEqual(output, output | output.update({'helloworld': 6}))
 
     def testIncorrectOutputs(self):
         self.assertIsInstance(repoCount('###'), int)
