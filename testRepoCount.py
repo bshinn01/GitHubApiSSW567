@@ -1,5 +1,9 @@
 import unittest
 from repositorycommitcount import repoCount
+from unittest.mock import MagicMock
+from unittest.mock import patch
+import requests
+import json
 
 
 class testRepoCount(unittest.TestCase):

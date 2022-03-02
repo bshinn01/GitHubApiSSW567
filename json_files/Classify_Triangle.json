@@ -1,0 +1,556 @@
+[
+  {
+    "sha": "fa82e2763fd0c6dd4525696317ab31903887ef28",
+    "node_id": "C_kwDOGxheHNoAKGZhODJlMjc2M2ZkMGM2ZGQ0NTI1Njk2MzE3YWIzMTkwMzg4N2VmMjg",
+    "commit": {
+      "author": {
+        "name": "Breanna Shinn",
+        "email": "55548498+bshinn01@users.noreply.github.com",
+        "date": "2022-03-02T16:33:42Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-03-02T16:33:42Z"
+      },
+      "message": "Create README.md",
+      "tree": {
+        "sha": "597e56759fb17e132377193d73ab5fa7621de3eb",
+        "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/git/trees/597e56759fb17e132377193d73ab5fa7621de3eb"
+      },
+      "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/git/commits/fa82e2763fd0c6dd4525696317ab31903887ef28",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJiH5xmCRBK7hj4Ov3rIwAAXJYIADTalUtEbCMpVFYAuGfOIqtJ\nJ8wXGFGWWvniPKo8U3tQeeTPmg7kh9gf00OzBUd5PGVnztSZSSyog/eanW86Hi4p\nuWY7ImvwGF+LWdoLTNLc1KsrMNGQwSo4SX7ohkKKAu7X+EnNkB9UoGfxtAQpHOUT\ntBhK3RrU1DXkCNq3EJ/IpWBnwX8ctB8vc7T1E6vsZ/OyTQB2uSiF3dYZQtF85J/O\n2aAiKtv2kSvYfvsjQupnZ/pOuWri0/KuBCzDaI3oXPGvbJP0st5RqorOKAKbEYyK\n4Ho5x8ZHvaGsDMLutR1rfs482zvwctanUtzjHLgUtkCJ/1XgjF5meLxo41gRCNk=\n=a3sa\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 597e56759fb17e132377193d73ab5fa7621de3eb\nparent c17497b92ef8cbfad6372f972bb6df86660719b1\nauthor Breanna Shinn <55548498+bshinn01@users.noreply.github.com> 1646238822 -0500\ncommitter GitHub <noreply@github.com> 1646238822 -0500\n\nCreate README.md"
+      }
+    },
+    "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/commits/fa82e2763fd0c6dd4525696317ab31903887ef28",
+    "html_url": "https://github.com/bshinn01/Classify_Triangle/commit/fa82e2763fd0c6dd4525696317ab31903887ef28",
+    "comments_url": "https://api.github.com/repos/bshinn01/Classify_Triangle/commits/fa82e2763fd0c6dd4525696317ab31903887ef28/comments",
+    "author": {
+      "login": "bshinn01",
+      "id": 55548498,
+      "node_id": "MDQ6VXNlcjU1NTQ4NDk4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55548498?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bshinn01",
+      "html_url": "https://github.com/bshinn01",
+      "followers_url": "https://api.github.com/users/bshinn01/followers",
+      "following_url": "https://api.github.com/users/bshinn01/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bshinn01/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bshinn01/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bshinn01/subscriptions",
+      "organizations_url": "https://api.github.com/users/bshinn01/orgs",
+      "repos_url": "https://api.github.com/users/bshinn01/repos",
+      "events_url": "https://api.github.com/users/bshinn01/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bshinn01/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c17497b92ef8cbfad6372f972bb6df86660719b1",
+        "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/commits/c17497b92ef8cbfad6372f972bb6df86660719b1",
+        "html_url": "https://github.com/bshinn01/Classify_Triangle/commit/c17497b92ef8cbfad6372f972bb6df86660719b1"
+      }
+    ]
+  },
+  {
+    "sha": "c17497b92ef8cbfad6372f972bb6df86660719b1",
+    "node_id": "C_kwDOGxheHNoAKGMxNzQ5N2I5MmVmOGNiZmFkNjM3MmY5NzJiYjZkZjg2NjYwNzE5YjE",
+    "commit": {
+      "author": {
+        "name": "bshinn01",
+        "email": "bshinn@stevens.edu",
+        "date": "2022-03-02T16:23:36Z"
+      },
+      "committer": {
+        "name": "bshinn01",
+        "email": "bshinn@stevens.edu",
+        "date": "2022-03-02T16:23:36Z"
+      },
+      "message": "edited formatting of classify_triangle per pylint standards",
+      "tree": {
+        "sha": "e6ed473ce32155868395ae73ff2a5b9c5b4c24a5",
+        "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/git/trees/e6ed473ce32155868395ae73ff2a5b9c5b4c24a5"
+      },
+      "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/git/commits/c17497b92ef8cbfad6372f972bb6df86660719b1",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/commits/c17497b92ef8cbfad6372f972bb6df86660719b1",
+    "html_url": "https://github.com/bshinn01/Classify_Triangle/commit/c17497b92ef8cbfad6372f972bb6df86660719b1",
+    "comments_url": "https://api.github.com/repos/bshinn01/Classify_Triangle/commits/c17497b92ef8cbfad6372f972bb6df86660719b1/comments",
+    "author": {
+      "login": "bshinn01",
+      "id": 55548498,
+      "node_id": "MDQ6VXNlcjU1NTQ4NDk4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55548498?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bshinn01",
+      "html_url": "https://github.com/bshinn01",
+      "followers_url": "https://api.github.com/users/bshinn01/followers",
+      "following_url": "https://api.github.com/users/bshinn01/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bshinn01/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bshinn01/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bshinn01/subscriptions",
+      "organizations_url": "https://api.github.com/users/bshinn01/orgs",
+      "repos_url": "https://api.github.com/users/bshinn01/repos",
+      "events_url": "https://api.github.com/users/bshinn01/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bshinn01/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "bshinn01",
+      "id": 55548498,
+      "node_id": "MDQ6VXNlcjU1NTQ4NDk4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55548498?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bshinn01",
+      "html_url": "https://github.com/bshinn01",
+      "followers_url": "https://api.github.com/users/bshinn01/followers",
+      "following_url": "https://api.github.com/users/bshinn01/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bshinn01/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bshinn01/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bshinn01/subscriptions",
+      "organizations_url": "https://api.github.com/users/bshinn01/orgs",
+      "repos_url": "https://api.github.com/users/bshinn01/repos",
+      "events_url": "https://api.github.com/users/bshinn01/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bshinn01/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7163bf6b759894967706ec24809f9cf5c4da8722",
+        "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/commits/7163bf6b759894967706ec24809f9cf5c4da8722",
+        "html_url": "https://github.com/bshinn01/Classify_Triangle/commit/7163bf6b759894967706ec24809f9cf5c4da8722"
+      }
+    ]
+  },
+  {
+    "sha": "7163bf6b759894967706ec24809f9cf5c4da8722",
+    "node_id": "C_kwDOGxheHNoAKDcxNjNiZjZiNzU5ODk0OTY3NzA2ZWMyNDgwOWY5Y2Y1YzRkYTg3MjI",
+    "commit": {
+      "author": {
+        "name": "bshinn01",
+        "email": "bshinn@stevens.edu",
+        "date": "2022-02-01T23:26:27Z"
+      },
+      "committer": {
+        "name": "bshinn01",
+        "email": "bshinn@stevens.edu",
+        "date": "2022-02-01T23:26:27Z"
+      },
+      "message": "Merge branch 'master' of https://github.com/bshinn01/Classify_Triangle",
+      "tree": {
+        "sha": "621cbf91436de6b685f97d87b6c0539e52c13e47",
+        "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/git/trees/621cbf91436de6b685f97d87b6c0539e52c13e47"
+      },
+      "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/git/commits/7163bf6b759894967706ec24809f9cf5c4da8722",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/commits/7163bf6b759894967706ec24809f9cf5c4da8722",
+    "html_url": "https://github.com/bshinn01/Classify_Triangle/commit/7163bf6b759894967706ec24809f9cf5c4da8722",
+    "comments_url": "https://api.github.com/repos/bshinn01/Classify_Triangle/commits/7163bf6b759894967706ec24809f9cf5c4da8722/comments",
+    "author": {
+      "login": "bshinn01",
+      "id": 55548498,
+      "node_id": "MDQ6VXNlcjU1NTQ4NDk4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55548498?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bshinn01",
+      "html_url": "https://github.com/bshinn01",
+      "followers_url": "https://api.github.com/users/bshinn01/followers",
+      "following_url": "https://api.github.com/users/bshinn01/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bshinn01/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bshinn01/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bshinn01/subscriptions",
+      "organizations_url": "https://api.github.com/users/bshinn01/orgs",
+      "repos_url": "https://api.github.com/users/bshinn01/repos",
+      "events_url": "https://api.github.com/users/bshinn01/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bshinn01/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "bshinn01",
+      "id": 55548498,
+      "node_id": "MDQ6VXNlcjU1NTQ4NDk4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55548498?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bshinn01",
+      "html_url": "https://github.com/bshinn01",
+      "followers_url": "https://api.github.com/users/bshinn01/followers",
+      "following_url": "https://api.github.com/users/bshinn01/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bshinn01/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bshinn01/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bshinn01/subscriptions",
+      "organizations_url": "https://api.github.com/users/bshinn01/orgs",
+      "repos_url": "https://api.github.com/users/bshinn01/repos",
+      "events_url": "https://api.github.com/users/bshinn01/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bshinn01/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e9468ff745664eb0b19eb54fb38f6f1cc48b768d",
+        "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/commits/e9468ff745664eb0b19eb54fb38f6f1cc48b768d",
+        "html_url": "https://github.com/bshinn01/Classify_Triangle/commit/e9468ff745664eb0b19eb54fb38f6f1cc48b768d"
+      },
+      {
+        "sha": "d1b727694766acd16dba978dfaac408fbb28bc4a",
+        "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/commits/d1b727694766acd16dba978dfaac408fbb28bc4a",
+        "html_url": "https://github.com/bshinn01/Classify_Triangle/commit/d1b727694766acd16dba978dfaac408fbb28bc4a"
+      }
+    ]
+  },
+  {
+    "sha": "e9468ff745664eb0b19eb54fb38f6f1cc48b768d",
+    "node_id": "C_kwDOGxheHNoAKGU5NDY4ZmY3NDU2NjRlYjBiMTllYjU0ZmIzOGY2ZjFjYzQ4Yjc2OGQ",
+    "commit": {
+      "author": {
+        "name": "bshinn01",
+        "email": "bshinn@stevens.edu",
+        "date": "2022-02-01T23:25:47Z"
+      },
+      "committer": {
+        "name": "bshinn01",
+        "email": "bshinn@stevens.edu",
+        "date": "2022-02-01T23:25:47Z"
+      },
+      "message": "edits to gitignore",
+      "tree": {
+        "sha": "a6761b45f29f71014fcbab537a11099f50fd861a",
+        "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/git/trees/a6761b45f29f71014fcbab537a11099f50fd861a"
+      },
+      "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/git/commits/e9468ff745664eb0b19eb54fb38f6f1cc48b768d",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/commits/e9468ff745664eb0b19eb54fb38f6f1cc48b768d",
+    "html_url": "https://github.com/bshinn01/Classify_Triangle/commit/e9468ff745664eb0b19eb54fb38f6f1cc48b768d",
+    "comments_url": "https://api.github.com/repos/bshinn01/Classify_Triangle/commits/e9468ff745664eb0b19eb54fb38f6f1cc48b768d/comments",
+    "author": {
+      "login": "bshinn01",
+      "id": 55548498,
+      "node_id": "MDQ6VXNlcjU1NTQ4NDk4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55548498?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bshinn01",
+      "html_url": "https://github.com/bshinn01",
+      "followers_url": "https://api.github.com/users/bshinn01/followers",
+      "following_url": "https://api.github.com/users/bshinn01/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bshinn01/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bshinn01/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bshinn01/subscriptions",
+      "organizations_url": "https://api.github.com/users/bshinn01/orgs",
+      "repos_url": "https://api.github.com/users/bshinn01/repos",
+      "events_url": "https://api.github.com/users/bshinn01/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bshinn01/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "bshinn01",
+      "id": 55548498,
+      "node_id": "MDQ6VXNlcjU1NTQ4NDk4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55548498?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bshinn01",
+      "html_url": "https://github.com/bshinn01",
+      "followers_url": "https://api.github.com/users/bshinn01/followers",
+      "following_url": "https://api.github.com/users/bshinn01/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bshinn01/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bshinn01/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bshinn01/subscriptions",
+      "organizations_url": "https://api.github.com/users/bshinn01/orgs",
+      "repos_url": "https://api.github.com/users/bshinn01/repos",
+      "events_url": "https://api.github.com/users/bshinn01/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bshinn01/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "4bd019bccaedcc80b561d043b45ae99f3123069d",
+        "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/commits/4bd019bccaedcc80b561d043b45ae99f3123069d",
+        "html_url": "https://github.com/bshinn01/Classify_Triangle/commit/4bd019bccaedcc80b561d043b45ae99f3123069d"
+      }
+    ]
+  },
+  {
+    "sha": "d1b727694766acd16dba978dfaac408fbb28bc4a",
+    "node_id": "C_kwDOGxheHNoAKGQxYjcyNzY5NDc2NmFjZDE2ZGJhOTc4ZGZhYWM0MDhmYmIyOGJjNGE",
+    "commit": {
+      "author": {
+        "name": "Breanna Shinn",
+        "email": "55548498+bshinn01@users.noreply.github.com",
+        "date": "2022-02-01T23:24:44Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-02-01T23:24:44Z"
+      },
+      "message": "Delete __pycache__ directory",
+      "tree": {
+        "sha": "d8736f881896af8113353a8b73545a5e8feded91",
+        "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/git/trees/d8736f881896af8113353a8b73545a5e8feded91"
+      },
+      "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/git/commits/d1b727694766acd16dba978dfaac408fbb28bc4a",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJh+cE8CRBK7hj4Ov3rIwAAFJYIAK/NH1U9v/e+s3tje7qN5YcB\nN5qNrIsxJsFu6Dtd+XacQzKY3gQODUlafYElyxPR/lk99FPMrtBSRy5xTmtkEqMF\nOjE/NT9N5V0g5GEqNOxZXmRAeXpEiYrQommvL4GG2IPNhbJQG3dUsQxI9ZC+B6Wg\nHKTMlF8CnZOWdo5ch9qbNOgtLw0x2U3jlyNJv89EBoqxmB9FK7j+JAV/yz9VXiwj\nPizEzhmx6bhHmYY21pnUAb8/3STk2pxcJF5kspP6Z68P9FgP3T/WT1VoIY9fLaSV\nhIoDXbI8vBj/k12ShGKccvKqqFUQIKuLcJWDA/0xzr57Sw9UWLUPSAhElnmEwjQ=\n=vTxF\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree d8736f881896af8113353a8b73545a5e8feded91\nparent 92587a855fd6cbaba75894105803aab3707fd4b1\nauthor Breanna Shinn <55548498+bshinn01@users.noreply.github.com> 1643757884 -0500\ncommitter GitHub <noreply@github.com> 1643757884 -0500\n\nDelete __pycache__ directory"
+      }
+    },
+    "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/commits/d1b727694766acd16dba978dfaac408fbb28bc4a",
+    "html_url": "https://github.com/bshinn01/Classify_Triangle/commit/d1b727694766acd16dba978dfaac408fbb28bc4a",
+    "comments_url": "https://api.github.com/repos/bshinn01/Classify_Triangle/commits/d1b727694766acd16dba978dfaac408fbb28bc4a/comments",
+    "author": {
+      "login": "bshinn01",
+      "id": 55548498,
+      "node_id": "MDQ6VXNlcjU1NTQ4NDk4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55548498?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bshinn01",
+      "html_url": "https://github.com/bshinn01",
+      "followers_url": "https://api.github.com/users/bshinn01/followers",
+      "following_url": "https://api.github.com/users/bshinn01/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bshinn01/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bshinn01/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bshinn01/subscriptions",
+      "organizations_url": "https://api.github.com/users/bshinn01/orgs",
+      "repos_url": "https://api.github.com/users/bshinn01/repos",
+      "events_url": "https://api.github.com/users/bshinn01/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bshinn01/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "92587a855fd6cbaba75894105803aab3707fd4b1",
+        "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/commits/92587a855fd6cbaba75894105803aab3707fd4b1",
+        "html_url": "https://github.com/bshinn01/Classify_Triangle/commit/92587a855fd6cbaba75894105803aab3707fd4b1"
+      }
+    ]
+  },
+  {
+    "sha": "92587a855fd6cbaba75894105803aab3707fd4b1",
+    "node_id": "C_kwDOGxheHNoAKDkyNTg3YTg1NWZkNmNiYWJhNzU4OTQxMDU4MDNhYWIzNzA3ZmQ0YjE",
+    "commit": {
+      "author": {
+        "name": "Breanna Shinn",
+        "email": "55548498+bshinn01@users.noreply.github.com",
+        "date": "2022-02-01T23:24:24Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-02-01T23:24:24Z"
+      },
+      "message": "Delete .idea directory",
+      "tree": {
+        "sha": "6ae7e57e1cfe35d20cbeb9e1830209f4e31c2cfc",
+        "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/git/trees/6ae7e57e1cfe35d20cbeb9e1830209f4e31c2cfc"
+      },
+      "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/git/commits/92587a855fd6cbaba75894105803aab3707fd4b1",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJh+cEpCRBK7hj4Ov3rIwAAdcEIAH4Mm8TVitK/uvF+0P9NiynZ\na9hM4t3+B+L8S+7IJ4vn/PF9MB6F8Yd5/MiVAHBvVz4Oc6DRKiWBv2x6/nORWOWx\nh7Jl0Jq+oGxfObnXNHlqrPbforPFz7FU5Cbb3D1ARXQ1SFCpWAC/ZRhwQxFm8p1t\n114OgzxMtyPVwmVFTmBzxTOvjwI7Oqwb+oPuS1EobWcT08l0sFFwyyPNaaSOKoYk\nSeDTVAlLEdvBCdwZ8GrMsZpVoq/QuXvmisHDl14DW3bg9pvthqjLsR7I8OFN7A+b\nWweDH+z9VjPRPHXCIkSTRRZmOlVcaDc0A9a4+0MbG10T39boOMulYWYvFzP9Nuc=\n=pRwl\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 6ae7e57e1cfe35d20cbeb9e1830209f4e31c2cfc\nparent 4bd019bccaedcc80b561d043b45ae99f3123069d\nauthor Breanna Shinn <55548498+bshinn01@users.noreply.github.com> 1643757864 -0500\ncommitter GitHub <noreply@github.com> 1643757864 -0500\n\nDelete .idea directory"
+      }
+    },
+    "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/commits/92587a855fd6cbaba75894105803aab3707fd4b1",
+    "html_url": "https://github.com/bshinn01/Classify_Triangle/commit/92587a855fd6cbaba75894105803aab3707fd4b1",
+    "comments_url": "https://api.github.com/repos/bshinn01/Classify_Triangle/commits/92587a855fd6cbaba75894105803aab3707fd4b1/comments",
+    "author": {
+      "login": "bshinn01",
+      "id": 55548498,
+      "node_id": "MDQ6VXNlcjU1NTQ4NDk4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55548498?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bshinn01",
+      "html_url": "https://github.com/bshinn01",
+      "followers_url": "https://api.github.com/users/bshinn01/followers",
+      "following_url": "https://api.github.com/users/bshinn01/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bshinn01/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bshinn01/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bshinn01/subscriptions",
+      "organizations_url": "https://api.github.com/users/bshinn01/orgs",
+      "repos_url": "https://api.github.com/users/bshinn01/repos",
+      "events_url": "https://api.github.com/users/bshinn01/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bshinn01/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "4bd019bccaedcc80b561d043b45ae99f3123069d",
+        "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/commits/4bd019bccaedcc80b561d043b45ae99f3123069d",
+        "html_url": "https://github.com/bshinn01/Classify_Triangle/commit/4bd019bccaedcc80b561d043b45ae99f3123069d"
+      }
+    ]
+  },
+  {
+    "sha": "4bd019bccaedcc80b561d043b45ae99f3123069d",
+    "node_id": "C_kwDOGxheHNoAKDRiZDAxOWJjY2FlZGNjODBiNTYxZDA0M2I0NWFlOTlmMzEyMzA2OWQ",
+    "commit": {
+      "author": {
+        "name": "bshinn01",
+        "email": "bshinn@stevens.edu",
+        "date": "2022-02-01T23:17:15Z"
+      },
+      "committer": {
+        "name": "bshinn01",
+        "email": "bshinn@stevens.edu",
+        "date": "2022-02-01T23:17:15Z"
+      },
+      "message": "first commit",
+      "tree": {
+        "sha": "dfe087ef99083061697828187ca4be71676590f3",
+        "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/git/trees/dfe087ef99083061697828187ca4be71676590f3"
+      },
+      "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/git/commits/4bd019bccaedcc80b561d043b45ae99f3123069d",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/bshinn01/Classify_Triangle/commits/4bd019bccaedcc80b561d043b45ae99f3123069d",
+    "html_url": "https://github.com/bshinn01/Classify_Triangle/commit/4bd019bccaedcc80b561d043b45ae99f3123069d",
+    "comments_url": "https://api.github.com/repos/bshinn01/Classify_Triangle/commits/4bd019bccaedcc80b561d043b45ae99f3123069d/comments",
+    "author": {
+      "login": "bshinn01",
+      "id": 55548498,
+      "node_id": "MDQ6VXNlcjU1NTQ4NDk4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55548498?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bshinn01",
+      "html_url": "https://github.com/bshinn01",
+      "followers_url": "https://api.github.com/users/bshinn01/followers",
+      "following_url": "https://api.github.com/users/bshinn01/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bshinn01/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bshinn01/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bshinn01/subscriptions",
+      "organizations_url": "https://api.github.com/users/bshinn01/orgs",
+      "repos_url": "https://api.github.com/users/bshinn01/repos",
+      "events_url": "https://api.github.com/users/bshinn01/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bshinn01/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "bshinn01",
+      "id": 55548498,
+      "node_id": "MDQ6VXNlcjU1NTQ4NDk4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55548498?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bshinn01",
+      "html_url": "https://github.com/bshinn01",
+      "followers_url": "https://api.github.com/users/bshinn01/followers",
+      "following_url": "https://api.github.com/users/bshinn01/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bshinn01/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bshinn01/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bshinn01/subscriptions",
+      "organizations_url": "https://api.github.com/users/bshinn01/orgs",
+      "repos_url": "https://api.github.com/users/bshinn01/repos",
+      "events_url": "https://api.github.com/users/bshinn01/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bshinn01/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+
+    ]
+  }
+]
